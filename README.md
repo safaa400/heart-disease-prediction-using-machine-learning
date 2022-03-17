@@ -1,4 +1,5 @@
-# heart-disease-prediction-using-machine-learningIn this project, my objective is to predict whether the patient has heart disease or not based on various features like cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal .I performed all the steps from Data gathering to  testing new data on the model. I compared various machine learning algorithms on the basis of accuracy_score metric and find the best one . At the end , Random forest classifier had the best results.
+# heart-disease-prediction-using-machine-learning
+In this project my objective is to predict whether the patient has heart disease or not based on various features like cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal .I performed all the steps from Data gathering to  testing new data on the model. I compared various machine learning algorithms on the basis of accuracy_score metric and find the best one . At the end , Random forest classifier had the best results.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here are  screenshots for the results and a grpah to compare the results of different models ; logistic regression , svm , KNN , decision trees , random forest classifier 
 and gradient boosting 
